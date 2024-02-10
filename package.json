@@ -1,0 +1,20 @@
+{
+  "name": "petty",
+  "version": "1.0.0",
+  "description": "pet heating solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElAmirr/petty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElAmirr/petty/issues"
+  },
+  "homepage": "https://github.com/ElAmirr/petty#readme"
+}
